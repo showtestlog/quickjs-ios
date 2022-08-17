@@ -1,0 +1,16 @@
+PODS:
+  - QuickJS_iOS (0.0.8)
+
+DEPENDENCIES:
+  - QuickJS_iOS (from `../../QuickJS_iOS.podspec`)
+
+EXTERNAL SOURCES:
+  QuickJS_iOS:
+    :path: "../../QuickJS_iOS.podspec"
+
+SPEC CHECKSUMS:
+  QuickJS_iOS: ff785316fb55c4a9983f0af7152e736d228d0ac9
+
+PODFILE CHECKSUM: 6084af9563117553d6f3f24ff8dd8959ed18eb5f
+
+COCOAPODS: 1.10.2
